@@ -26,12 +26,12 @@ The stochastic nature of the ML algorithms as well as feature selection techniqu
 The diagnostic accuracy obtained from the proposed system outperforms the existing methods as well as the state-of-the-art ROMA algorithm by a substantial margin.
 ## Screenshots
 
-![App Screenshot](https://github.com/newaz-aa/Ovarian_Cancer/blob/main/Figures/pre_right.png)
-
 
 ![App Screenshot](https://github.com/newaz-aa/Ovarian_Cancer/blob/main/Figures/oc_pre_alb.jpg)
 
+![App Screenshot](https://github.com/newaz-aa/Ovarian_Cancer/blob/main/Figures/oc_bar_pre_2.jpg)
 
+![App Screenshot](https://github.com/newaz-aa/Ovarian_Cancer/blob/main/Figures/pre_right.png)
 ## BibTex Citation
 
 ```bibtex
